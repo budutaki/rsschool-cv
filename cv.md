@@ -11,16 +11,19 @@
 Being experinced OPS manager I found myself interested in coding and decided to give it a go. I've learned the fundamentals of Java and already have some experince in back-end development, and now looking forward to get familiar with front-end as well.
 
 ## Skills
-JavaCore                  Git               Agile
-Spring Framework          GitHub            Scrum
-JUnit                     Gradle
-                          Maven
+* JavaCore
+* Spring Framework
+* Git
+* Github
+* Gradle
+* Maven
+* JUnit
 
-
-
+* Agile
+* Scrum
 
 ## Code Example
-Server which accepts connections in infinite loop, reads information in json format and adds tasks to to ToDo list.
+*This server accepts connections in infinite loop, reads information in json format and adds tasks to to ToDo list.*
 ```
 public class TodoServer {
     protected int port;
