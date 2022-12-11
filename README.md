@@ -1,1 +1,1 @@
-**https://budutaki.github.io/rsschool-cv/cv**
+**https://budutaki.github.io/rsschool-cv/**
