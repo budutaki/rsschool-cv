@@ -18,7 +18,6 @@ Being experinced OPS manager I found myself interested in coding and decided to 
 * Gradle
 * Maven
 * JUnit
-
 * Agile
 * Scrum
 
