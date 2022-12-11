@@ -1,7 +1,7 @@
 # Elena Bugrova
 
 ## Contacts
-**Phone:** +7 (985) 911-46-50 \  
+**Phone:** +7 (985) 911-46-50  
 **Telegram:** t.me/budutaki\
 **Email:** bugrovael@gmail.com\
 **GitHub:** github.com/budutaki\
@@ -79,12 +79,12 @@ public class TodoServer {
 NeuroArt Limited\
 Nov 2022 - Present 
 
-**Project Manager** \
-Insideroom \ 
+**Project Manager**\
+Insideroom\
 Sep 2021 - Nov 2022
 
 **Operations Manager**\
-Sema Educational center \ 
+Sema Educational center\
 Sep 2020 - Sep 2021 
 
 **Director of Operations**\
@@ -110,7 +110,7 @@ Institute of Practical Oriental Studies\
 2006
 
 ## Languages
-English - Proficient \ 
+English - Proficient\
 Russian - Native
 
 
